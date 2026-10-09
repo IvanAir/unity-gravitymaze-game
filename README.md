@@ -1,6 +1,6 @@
 # 🔄 Labyrinth: Find an outlet Maze Game
 
-**🎮[PLAY IN BROWSER](ССЫЛКА_БУДЕТ_ЗДЕСЬ)**
+**🎮[PLAY IN BROWSER](https://qa-gamedev.github.io/unity-gravitymaze-game/)**
 
 ## 📖 О проекте
 Мобильная игра-головоломка, построенная на механике изменения гравитации. Изначально проект был успешно опубликован в Google Play. 
